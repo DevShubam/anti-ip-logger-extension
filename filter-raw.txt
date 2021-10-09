@@ -1,0 +1,2 @@
+# I use my very own filter of IP Loggers for this extension
+# Here are the raw domains
